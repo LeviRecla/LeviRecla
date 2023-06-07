@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **LeviRecla/LeviRecla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏫 **Below is a brief synopsis of my current education status**
+### Computer Science Bachelor's with a Machine Learning Emphasis - Graduation Spring 2025
+*Completed the following coursework:*
+- Computer Science 1 & 2
+- Computer and Network Security
+- Introduction to Full Stack Web Development
+- Digital Systems
+- Microprocessors
+
+### Physics Minor - Complete Spring 2024
+*Completed the following  coursework:*
+- Physics 1 & 2
+- Calculus 1 & 2
+- Multivariable and Vector Calculus
+- Introductory Quantum Mechanics
+- Scientific Computing
+- Astrophysics
+
+
+
+
+
