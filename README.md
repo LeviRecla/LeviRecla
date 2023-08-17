@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Computer Science Bachelor's with a Machine Learning Emphasis - Graduation Spring 2025
 *Completed the following coursework:*
 - Computer Science 1 & 2
+- Data Structures
+- Introduction to Systems Programming
 - Computer and Network Security
 - Introduction to Full Stack Web Development
 - Digital Systems
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
 - Calculus 1 & 2
 - Multivariable and Vector Calculus
 - Introductory Quantum Mechanics
+- Relativistic Physics
 - Scientific Computing
 - Astrophysics
 
