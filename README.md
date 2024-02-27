@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Multivariable and Vector Calculus
 - Introductory Quantum Mechanics
 - Relativistic Physics
--Analog and Digital Electronics
+- Analog and Digital Electronics
 - Astrophysics
 
 
